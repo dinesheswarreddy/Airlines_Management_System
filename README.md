@@ -1,16 +1,16 @@
 # ✈️ Airlines Management System - Salesforce 
 
-## 🏫 College :  *Vishnu Institute of Technology - Bhimavaram*
+## 🏫 College :  `*Vishnu Institute of Technology - Bhimavaram*`
 
 **🔹 TEAM NUMBER:** `LTVIP2025TMID30989`
 
 ---
 
 ## 👥 Team Members
-- Member 1: *Syam Kumar*, Team Leader
-- Member 2: *Gangula Navya Sree*, Salesforce Administrator
-- Member 3: *Dwarampudi Dinesh Eswar Reddy*, Salesforce Developer
-- Member 4: *Lam Uday Narasimha*, Team member
+- Member 1: `*Syam Kumar*`, Team Leader
+- Member 2: `*Gangula Navya Sree*`, Salesforce Administrator
+- Member 3: `*Dwarampudi Dinesh Eswar Reddy*`, Salesforce Developer
+- Member 4: `*Lam Uday Narasimha*`, Team member
 
 ---
 
