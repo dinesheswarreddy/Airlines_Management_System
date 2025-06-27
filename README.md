@@ -2,7 +2,7 @@
 
 ## 🏫 College :  *Vishnu Institute of Technology - Bhimavaram*
 
-**🔹 TEAM NUMBER:** **'''bash LTVIP2025TMID30989 '''**
+**🔹 TEAM NUMBER:** '''bash LTVIP2025TMID30989 
 
 ---
 
