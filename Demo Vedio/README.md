@@ -1,6 +1,10 @@
-# 🎥 Project Demo Video - Airlines Management System
+# 📺 Project Demo Video - Airlines Management System
+[![Watch the Demo Video](https://img.youtube.com/vi/abcd1234XYZ/0.jpg)](https://www.youtube.com/watch?v=Oz1UWI1caGs)
+
+👉 **[Click here to watch the full demo on YouTube](https://youtu.be/Oz1UWI1caGs)**
 
 This folder contains the **demo video** showcasing the functionality and features of the **Airlines Management System** built on **Salesforce Lightning**.
+
 
 ## 📽️ About the Demo
 
