@@ -11,10 +11,9 @@
 ---
 
 ## 👥 Team Members
-- Member 1: `Syam Kumar`, Team Leader
+
+- Member 1: `Dwarampudi Dinesh Eswar Reddy`, Salesforce Developer
 - Member 2: `Gangula Navya Sree`, Salesforce Administrator
-- Member 3: `Dwarampudi Dinesh Eswar Reddy`, Salesforce Developer
-- Member 4: `Lam Uday Narasimha`, Team member
 
 ---
 
